@@ -3,9 +3,9 @@
 
 ## **⭐ Star**
 
-Cliquez en haut à droite sur ⭐ pour mettre une étoile !
+- [ ] Cliquez en haut à droite sur ⭐ pour mettre une étoile !
 
-Je publierai cet outil une fois qu'il aura atteint 10 étoiles sur GitHub.
+- [ ] Je publierai cet outil une fois qu'il aura atteint 10 étoiles sur GitHub.
 
 ## **🌟 DawaTools #NEW**
 
@@ -19,16 +19,16 @@ Je publierai cet outil une fois qu'il aura atteint 10 étoiles sur GitHub.
 
 ![OSINT](https://cdn.discordapp.com/attachments/1231056887219355688/1243220817274339400/Capture_decran_2024-05-20_224422.png?ex=667adf1c&is=66798d9c&hm=a2b8c938e1c156d94cfb06a591be7205554e290a9679f531a95b22ed11bda0e7&)
 
-1. **Doxbin** : Outil pour collecter et organiser des informations détaillées sur une personne ou une entité.
-2. **Osint-Framework** : Cadre pour l'utilisation d'outils OSINT variés.
-3. **Name Tracker** : Suivi des noms pour découvrir des informations supplémentaires liées à une personne.
-4. **Email Tracker** : Suivi et analyse des adresses email pour obtenir des informations sur le propriétaire et l'activité.
-5. **Email Info** : Informations détaillées sur les adresses email.
-6. **Number Info** : Informations détaillées sur les numéros de téléphone.
-7. **Dox-Creator** : Outil pour créer des dox complets avec des informations détaillées.
-8. **Simple Dox-Creator** : Version simplifiée du créateur de dox pour des besoins basiques.
-9. **Search Database** : Recherche dans une base de données pour trouver des informations spécifiques.
-10. **IP Lookup** : Recherche d'adresses IP pour obtenir des informations géographiques et autres détails associés.
+- [x] 1. **Doxbin** : Outil pour collecter et organiser des informations détaillées sur une personne ou une entité.
+- [x] 2. **Osint-Framework** : Cadre pour l'utilisation d'outils OSINT variés.
+- [x] 3. **Name Tracker** : Suivi des noms pour découvrir des informations supplémentaires liées à une personne.
+- [x] 4. **Email Tracker** : Suivi et analyse des adresses email pour obtenir des informations sur le propriétaire et l'activité.
+- [x] 5. **Email Info** : Informations détaillées sur les adresses email.
+- [x] 6. **Number Info** : Informations détaillées sur les numéros de téléphone.
+- [x] 7. **Dox-Creator** : Outil pour créer des dox complets avec des informations détaillées.
+- [x] 8. **Simple Dox-Creator** : Version simplifiée du créateur de dox pour des besoins basiques.
+- [x] 9. **Search Database** : Recherche dans une base de données pour trouver des informations spécifiques.
+- [x] 10. **IP Lookup** : Recherche d'adresses IP pour obtenir des informations géographiques et autres détails associés.
 
 ### **💣 Bombing**
 
@@ -36,33 +36,33 @@ Je publierai cet outil une fois qu'il aura atteint 10 étoiles sur GitHub.
 
 #### **📧 Email-Bomber**
 
-1. **Email-Bomber (Gmail)** : Outil pour envoyer un grand nombre de courriels à une adresse Gmail cible.
-2. **Email-Bomber (Pass-Reset)** : Outil pour envoyer des demandes de réinitialisation de mot de passe en masse.
+- [x] 1. **Email-Bomber (Gmail)** : Outil pour envoyer un grand nombre de courriels à une adresse Gmail cible.
+- [x] 2. **Email-Bomber (Pass-Reset)** : Outil pour envoyer des demandes de réinitialisation de mot de passe en masse.
 
 #### **🌐 DDOS**
 
-1. **DDOS-IP** : Attaque par déni de service distribué sur une adresse IP spécifique.
-2. **DDOS-WebSite** : Attaque par déni de service distribué sur un site web spécifique.
+- [x] 1. **DDOS-IP** : Attaque par déni de service distribué sur une adresse IP spécifique.
+- [x] 2. **DDOS-WebSite** : Attaque par déni de service distribué sur un site web spécifique.
 
 ### **🎁 Dawa Gen**
 
 ![Gen](https://cdn.discordapp.com/attachments/1231056887219355688/1254124455568085156/Capture_decran_2024-06-22_192222.png?ex=667afcea&is=6679ab6a&hm=af439b3fea434692491159296ebd423891373e78ab9e0a3ec0a6766fa14688fe&)
 
-1. **Discord-Nitro** : Génération de codes pour Discord Nitro.
-2. **Amazon Giftcard** : Génération de cartes-cadeaux Amazon.
-3. **Netflix Giftcard** : Génération de cartes-cadeaux Netflix.
-4. **Apple Giftcard** : Génération de cartes-cadeaux Apple.
-5. **Steam Giftcard** : Génération de cartes-cadeaux Steam.
-6. **Google Play** : Génération de cartes-cadeaux Google Play.
-7. **Spotify Gift** : Génération de cartes-cadeaux Spotify.
+- [x] 1. **Discord-Nitro** : Génération de codes pour Discord Nitro.
+- [x] 2. **Amazon Giftcard** : Génération de cartes-cadeaux Amazon.
+- [x] 3. **Netflix Giftcard** : Génération de cartes-cadeaux Netflix.
+- [x] 4. **Apple Giftcard** : Génération de cartes-cadeaux Apple.
+- [x] 5. **Steam Giftcard** : Génération de cartes-cadeaux Steam.
+- [x] 6. **Google Play** : Génération de cartes-cadeaux Google Play.
+- [x] 7. **Spotify Gift** : Génération de cartes-cadeaux Spotify.
+ 
+## **📋 Pré-requis**
+
+- Python version 3.11.5 (lien pour le telecharger founis dans le dossier utilisation)
 
 ## **🛠️ Installation**
 
 Pour installer Dawa-Tool, suivez ces étapes :
-
-### **📋 Pré-requis**
-
-- Python version 3.11.5 (lien pour le telecharger founis dans le dossier utilisation)
 
 ### **🚀 Étapes**
 ```
