@@ -4,29 +4,29 @@ Dawa-Multitool : Un ensemble d'outils puissants pour la collecte et le suivi d'i
 
 __Fonctionnalités__
 
-> Dox
+ <Dox>
 Description : Outil pour collecter et organiser des informations détaillées sur une personne ou une entité.
-> Simple Dox
+ <Simple Dox>
 Description : Version simplifiée du Dox, offrant des fonctionnalités de base pour la collecte d'informations.
-> Email Tracker
+ <Email Tracker>
 Description : Suivi et analyse des adresses email pour obtenir des informations sur le propriétaire et l'activité.
-> Name Tracker
+ <Name Tracker>
 Description : Suivi des noms pour découvrir des informations supplémentaires liées à une personne.
-> Email Verifier
+ <Email Verifier>
 Description : Vérification de la validité des adresses email pour s'assurer qu'elles sont actives et correctes.
-> Number Verifier
+ <Number Verifier>
 Description : Vérification des numéros de téléphone pour valider leur authenticité et leur statut.
-> IP Lookup
+ <IP Lookup>
 Description : Recherche d'adresses IP pour obtenir des informations géographiques et autres détails associés.
-> Email Bomber
+ <Email Bomber>
 Description : Outil pour envoyer un grand nombre de courriels à une adresse cible dans un court laps de temps.
-> Email Spammer
+ <Email Spammer>
 Description : Outil pour envoyer des courriels de spam à plusieurs adresses.
-> Search Database
+ <Search Database>
 Description : Recherche dans une base de données pour trouver des informations spécifiques.
-> Generator
+ <Generator>
 Description : Génération de divers types de contenus, comme des faux profils ou des informations aléatoires.
-> Discord Nitro
+ <Discord Nitro>
 Description : Génération de codes et autres outils spécifiques pour Discord Nitro.
 
 
