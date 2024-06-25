@@ -1,34 +1,32 @@
-# Dawa-Tool 🚀
-
+# 🚀 · DawaTools
 
 ## **⭐ Star**
 
-- [ ] Cliquez en haut à droite sur ⭐ pour mettre une étoile !
-
-- [ ] Je publierai cet outil une fois qu'il aura atteint 10 étoiles sur GitHub.
+- [ ] Click on ⭐ at the top right to star this repository!
+- [ ] I will publish this tool once it reaches 10 stars on GitHub.
 
 ## **🌟 DawaTools #NEW**
 
-**Dawa-Multitool** : Un ensemble d'outils puissants pour la collecte et le suivi d'informations.
+**Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
 
 ![Dawa-Tool Logo](https://cdn.discordapp.com/attachments/1231056887219355688/1254124351729569953/Capture_decran_2024-06-22_192206.png?ex=667afcd1&is=6679ab51&hm=6ef5906497effe7437964f6f96440f08d86a254c4997fd9751ef7731cb013d45&)
 
-## **✨ Fonctionnalités**
+## **✨ Features**
 
 ### **🔍 OSINT (Open Source Intelligence)**
 
 ![OSINT](https://cdn.discordapp.com/attachments/1231056887219355688/1243220817274339400/Capture_decran_2024-05-20_224422.png?ex=667adf1c&is=66798d9c&hm=a2b8c938e1c156d94cfb06a591be7205554e290a9679f531a95b22ed11bda0e7&)
 
-- [x] 1. **Doxbin** : Outil pour collecter et organiser des informations détaillées sur une personne ou une entité.
-- [x] 2. **Osint-Framework** : Cadre pour l'utilisation d'outils OSINT variés.
-- [x] 3. **Name Tracker** : Suivi des noms pour découvrir des informations supplémentaires liées à une personne.
-- [x] 4. **Email Tracker** : Suivi et analyse des adresses email pour obtenir des informations sur le propriétaire et l'activité.
-- [x] 5. **Email Info** : Informations détaillées sur les adresses email.
-- [x] 6. **Number Info** : Informations détaillées sur les numéros de téléphone.
-- [x] 7. **Dox-Creator** : Outil pour créer des dox complets avec des informations détaillées.
-- [x] 8. **Simple Dox-Creator** : Version simplifiée du créateur de dox pour des besoins basiques.
-- [x] 9. **Search Database** : Recherche dans une base de données pour trouver des informations spécifiques.
-- [x] 10. **IP Lookup** : Recherche d'adresses IP pour obtenir des informations géographiques et autres détails associés.
+- [x] 1. **Doxbin**: Tool for collecting and organizing detailed information about a person or entity.
+- [x] 2. **Osint-Framework**: Framework for using various OSINT tools.
+- [x] 3. **Name Tracker**: Tracking names to discover additional information related to a person.
+- [x] 4. **Email Tracker**: Tracking and analyzing email addresses to gather information about the owner and their activity.
+- [x] 5. **Email Info**: Detailed information about email addresses.
+- [x] 6. **Number Info**: Detailed information about phone numbers.
+- [x] 7. **Dox-Creator**: Tool for creating comprehensive doxes with detailed information.
+- [x] 8. **Simple Dox-Creator**: Simplified version of the dox creator for basic needs.
+- [x] 9. **Search Database**: Database search to find specific information.
+- [x] 10. **IP Lookup**: IP address lookup to obtain geographical and other associated details.
 
 ### **💣 Bombing**
 
@@ -36,70 +34,66 @@
 
 #### **📧 Email-Bomber**
 
-- [x] 1. **Email-Bomber (Gmail)** : Outil pour envoyer un grand nombre de courriels à une adresse Gmail cible.
-- [x] 2. **Email-Bomber (Pass-Reset)** : Outil pour envoyer des demandes de réinitialisation de mot de passe en masse.
+- [x] 1. **Email-Bomber (Gmail)**: Tool for sending a large number of emails to a target Gmail address.
+- [x] 2. **Email-Bomber (Pass-Reset)**: Tool for sending mass password reset requests.
 
 #### **🌐 DDOS**
 
-- [x] 1. **DDOS-IP** : Attaque par déni de service distribué sur une adresse IP spécifique.
-- [x] 2. **DDOS-WebSite** : Attaque par déni de service distribué sur un site web spécifique.
+- [x] 1. **DDOS-IP**: Distributed Denial of Service attack on a specific IP address.
+- [x] 2. **DDOS-WebSite**: Distributed Denial of Service attack on a specific website.
 
 ### **🎁 Dawa Gen**
 
 ![Gen](https://cdn.discordapp.com/attachments/1231056887219355688/1254124455568085156/Capture_decran_2024-06-22_192222.png?ex=667afcea&is=6679ab6a&hm=af439b3fea434692491159296ebd423891373e78ab9e0a3ec0a6766fa14688fe&)
 
-- [x] 1. **Discord-Nitro** : Génération de codes pour Discord Nitro.
-- [x] 2. **Amazon Giftcard** : Génération de cartes-cadeaux Amazon.
-- [x] 3. **Netflix Giftcard** : Génération de cartes-cadeaux Netflix.
-- [x] 4. **Apple Giftcard** : Génération de cartes-cadeaux Apple.
-- [x] 5. **Steam Giftcard** : Génération de cartes-cadeaux Steam.
-- [x] 6. **Google Play** : Génération de cartes-cadeaux Google Play.
-- [x] 7. **Spotify Gift** : Génération de cartes-cadeaux Spotify.
- 
-## **📋 Pré-requis**
+- [x] 1. **Discord-Nitro**: Generates Discord Nitro codes.
+- [x] 2. **Amazon Giftcard**: Generates Amazon gift cards.
+- [x] 3. **Netflix Giftcard**: Generates Netflix gift cards.
+- [x] 4. **Apple Giftcard**: Generates Apple gift cards.
+- [x] 5. **Steam Giftcard**: Generates Steam gift cards.
+- [x] 6. **Google Play**: Generates Google Play gift cards.
+- [x] 7. **Spotify Gift**: Generates Spotify gift cards.
 
-- Python version 3.11.5 (lien pour le telecharger founis dans le dossier utilisation)
+## **📋 Requirements**
+
+- Python version 3.11.5 ([Click here](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe))
 
 ## **🛠️ Installation**
 
-Pour installer Dawa-Tool, suivez ces étapes :
+To install Dawa-Tool, follow these steps:
 
-### **🚀 Étapes**
-```
-1. Téléchargez le fichier .rar ou .zip.
-```
-```
-2. Faites extraire le fichier.
-```
-```
-3. Cliquez sur le fichier DAWA-TOOL.
-```
-```
-4. Cliquez sur le fichier 1 - Menu.
-```
-```
-5. Exécutez le fichier .bat nommé setup.bat.
-```
-## **💻 Utilisation**
+### **🚀 Steps**
 
 ```
-1. Utilisez votre cerveau.
+1. Download the .rar or .zip file.
+```
+```
+2. Extract the file.
+```
+```
+3. Click on the DAWA-TOOL file.
+```
+```
+4. Click on the 1 - Menu file.
+```
+```
+5. Run the setup.bat file.
 ```
 
-## **:scroll: Licence**
+## **:scroll: License**
 
-Distribué sous la licence GNU Affero General Public License v3.0. Voir LICENSE pour plus d'informations.
+
+Distributed under the GNU Affero General Public License v3.0. See LICENSE for more information.
+
+Link : [License link](https://github.com/DAWA0/Dawa-Multitool/blob/main/LICENSE)
+
 
 ## **:speech_balloon: Support**
 
-Pour toute question ou assistance, rejoignez notre serveur Discord ici.
+For any questions or assistance, join our Discord server here:
 
-Support : https://discord.gg/NDhvd8dAh5
 
-# **:pray: Remerciements**
 
-Merci à Dephiou pour son aide en tant que beta testeur et ses idée.
+Discord owner : "fullsafe."
 
-kyzennnn pour son aide en tant que beta testeur et ses idée.
-
-Créé par Dawa.
+Discord : "https://discord.gg/3hjk6AxddC"
