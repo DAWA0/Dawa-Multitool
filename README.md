@@ -3,7 +3,7 @@
 ## **⭐ Star**
 
 - [ ] Click on ⭐ at the top right to star this repository!
-- [ ] I will publish this tool once it reaches 10 stars on GitHub.
+- [ ] I will publish this tool once it reaches 35 stars on GitHub.
 
 ## **🌟 DawaTools #NEW**
 
