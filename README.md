@@ -9,7 +9,7 @@
 
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
 
-![Dawa-Tool Logo](https://cdn.discordapp.com/attachments/1231052908762632246/1256379033881677834/Banner_tool.png?ex=66808da8&is=667f3c28&hm=38bd0c232f809b67c15dae733882ba47481061de6e8910e512c63681ed38f447&)
+![Dawa-Tool Logo](https://cdn.discordapp.com/attachments/1231052908762632246/1256379246201536593/banner_tool_2.png?ex=66808dda&is=667f3c5a&hm=f93787a640d3c9d3d92d8bb631dcee94ba8663674b2f3d258f1db976f89686d0&)
 
 ## **✨ Features**
 
