@@ -2,8 +2,9 @@
 
 ## **⭐ Star**
 
-- [ ] Click on ⭐ at the top right to star this repository!
-- [ ] I will publish this tool once it reaches 60 stars on GitHub.
+- [x] Join discord server for claim the best multitool >Dawa-Tools<.
+- [x] Click on ⭐ at the top right to star this repository!
+- [x] I will publish this tool once it reaches 60 stars on GitHub.
 
 ## **🌟 DawaTools #NEW**
 
