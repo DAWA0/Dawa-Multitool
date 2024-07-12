@@ -1,5 +1,5 @@
 import webbrowser
 
-url = "https://discord.gg/EaVqF996XU"
+url = "https://discord.gg/MxKwycrRCs"
 
 webbrowser.open(url)
